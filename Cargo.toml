@@ -470,5 +470,5 @@ vrl = { version = "0.31", features = [
     "compiler",
     "test",
 ] }
-zip = "8.0"
+zip = "9.0"
 zstd = "0.13"
